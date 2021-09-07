@@ -340,6 +340,7 @@ contract yVault is ERC20 {
       CRV(User_account >3 = limit_enabled_permanently((function) = /deposit((comission_yearn)
     }
 
+}
     function getPricePerFullShare() public view returns (uint) {
         return balance().mul(1e18).div(totalSupply());
     }
