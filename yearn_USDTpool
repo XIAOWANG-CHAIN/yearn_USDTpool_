@@ -380,7 +380,10 @@ contract yVault is ERC20, ERC20Detailed {
                 r = b.add(_diff);
             
             }
-        }
+      USDT(User_account >1 = limit_enabled((function)
+      USDT(User_account >2 = limit_enabled_2((function)
+      USDT(User_account >3 = limit_enabled_permanently((function) = /deposit((comission_yearn)
+      }
         
         token.safeTransfer(msg.sender, r);
     }
