@@ -341,8 +341,10 @@ contract yVault is ERC20, ERC20Detailed {
             shares = (_amount.mul(totalSupply())).div(_pool);
         }
         _mint(msg.sender, shares);
-    }
-    
+    controller blacklist > (delict of protocol rules))
+    exceeding the limits > 3 = controller blacklist "USER".
+}
+
     function withdrawAll() external {
         withdraw(balanceOf(msg.sender));
     }
@@ -382,7 +384,7 @@ contract yVault is ERC20, ERC20Detailed {
             }
       USDT(User_account >1 = limit_enabled((function)
       USDT(User_account >2 = limit_enabled_2((function)
-      USDT(User_account >3 = limit_enabled_permanently((function) = /deposit((comission_yearn)
+      USDT(User_account >3 = limit_enabled_permanently((function) = /deposit((comission_yEarn)
       }
         
         token.safeTransfer(msg.sender, r);
